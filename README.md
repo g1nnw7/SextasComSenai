@@ -1,2 +1,2 @@
 # SextasComSenai
-Repositório para armazenar atividades de curso extra de lógica de programação
+Repositório para armazenar atividades desenvolvidas no curso extra curricular de programação
